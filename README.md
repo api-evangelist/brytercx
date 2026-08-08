@@ -42,5 +42,6 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-BryterCX is a company surfaced via the API Evangelist harvest backlog (source: secondary-market) and added to the network as a stub for full-pipeline profiling.
-- https://forgeglobal.com/brytercx_stock/
+BryterCX was a customer journey intelligence company based in Greenwood Village, Colorado, formerly known as ClickFox. Its Journey Intelligence platform stitched siloed digital, contact-center and back-office data into a single omnichannel view of the customer journey, with journey mapping, monitoring, analytics and orchestration, later extended with the Iris Insights AI/ML anomaly-detection layer. IgniteTech acquired the BryterCX assets from Arrowroot Capital in January 2022. The BryterCX brand no longer operates independently: brytercx.com and the legacy clickfox.com both 302 to the IgniteTech homepage, and IgniteTech's own software library returns 404 for the BryterCX and ClickFox product slugs. No public API, developer portal or machine-readable contract survives the acquisition.
+
+- https://brytercx.com/ (302 → https://ignitetech.ai/)
