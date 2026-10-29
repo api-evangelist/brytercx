@@ -66,4 +66,67 @@
 
 BryterCX was a customer journey intelligence company based in Greenwood Village, Colorado, formerly known as ClickFox. Its Journey Intelligence platform stitched siloed digital, contact-center and back-office data into a single omnichannel view of the customer journey, with journey mapping, monitoring, analytics and orchestration, later extended with the Iris Insights AI/ML anomaly-detection layer. IgniteTech acquired the BryterCX assets from Arrowroot Capital in January 2022. The BryterCX brand no longer operates independently: brytercx.com and the legacy clickfox.com both 302 to the IgniteTech homepage, and IgniteTech's own software library returns 404 for the BryterCX and ClickFox product slugs. No public API, developer portal or machine-readable contract survives the acquisition.
 
-- https://brytercx.com/ (302 → https://ignitetech.ai/)
+**Areas:** Company · Customer Experience · Customer Journey Analytics · Journey Intelligence · Analytics · Contact Center · Acquired
+
+## BryterCX on APIs.io
+
+Everything profiled for BryterCX is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/brytercx/](https://apis.io/providers/brytercx/)** — or go straight to one of the APIs or properties below.
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://brytercx.com/)
+
+## API Evangelist rating
+
+**Kin Score 2.2** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 44.6 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 0.0** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/brytercx/](https://apis.io/providers/brytercx/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for BryterCX: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/brytercx/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
